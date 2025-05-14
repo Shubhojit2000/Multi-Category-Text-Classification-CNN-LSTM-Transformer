@@ -21,7 +21,7 @@ This script evaluates the trained model on a test dataset.
 
 **Expected Outputs:**
 - submission.csv: A CSV file with two columns — image_name and label.
-- seg_maps/: A directory containing predicted segmentation maps for each test image.
+- seg_maps: A directory containing predicted segmentation maps for each test image.
 
 **Example:**
 ```bash
